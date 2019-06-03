@@ -1,6 +1,10 @@
 This is an Arma 3 extension to take screenshots of your display. This extension was created as a substitute to using the `screenshot` command, as for many it produces washed out images.
 
+[To grab the latest DLLs visit the release page.](https://github.com/pennyworth12345/pen_screenshot/releases/tag/v1.0.0)
+
 # Usage
+**This extension is not whitelisted by BattleEye, therefore when trying to use it you will need to disable BattleEye.** The DLLs can be placed either in the root of your Arma 3 directory (where the arma3 executables are located), or within an @modName folder.
+
 
 ### Capture
 Captures your primary display at its native resolution with whatever is currently on the screen. To use, run either of the following in SQF:
